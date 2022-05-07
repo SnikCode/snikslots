@@ -1,4 +1,3 @@
-import ctypes
 import string
 import os
 import time
@@ -8,8 +7,6 @@ from os import system, name
 LICNECE = """
 Registration System by ZXCGOD#3778
 """
-
-ctypes.windll.kernel32.SetConsoleTitleA(b"SnikSlots - Registration")
 
 print(LICNECE)
 time.sleep(3)
