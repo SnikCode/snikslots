@@ -1,0 +1,2 @@
+# snikslots
+Slots simulator
