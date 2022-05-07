@@ -5,5 +5,5 @@ www.snikslots.org
 
 ВСё честно и без обмана!
 
-SnikSlots (c) 2020-2022 since by Snikers1 A.K.A zxcoderr
+SnikSlots (c) 2020-2022 since by SnikCode A.K.A zxcoderr
 Copy or remake this files isn't allowed!
